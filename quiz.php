@@ -60,7 +60,7 @@ else{
                 <option>Ne</option>
             </select>
             <br>
-            <label>Sovy mají špatně vyvinutý sluch?</label>
+            <label>Mají sovy špatně vyvinutý sluch?</label>
             <select name="otazka2">
                 <option>Ano</option>
                 <option>Ne</option>
@@ -73,7 +73,7 @@ else{
             </select>
             <br>
         </div>
-        <button class='button'><p><strong>Odeslat</strong></p></button>
+        <button class='button'><strong>Odeslat</strong></button>
 
     </div>
 </form>
